@@ -35,6 +35,7 @@
     font-weight: 700;
     color: var(--Dark_Violet);
     font-size: 2.5rem;
+    padding-bottom: 10px;
     
  }
  body h2, body h3{
@@ -69,7 +70,7 @@
  }
  .section-A img{
      width: 29.25rem;
-     margin-bottom: 2.5rem;
+     margin-bottom: 10px;
      position: relative;
      left: 5rem;
  }
@@ -138,8 +139,8 @@
  .links_left, .links_right{
      display: none;
  }
- .section-A, .sub_section-A{
-     padding-bottom: 9.375rem;
+ .sub_section-A{
+     padding-bottom: 150px;
  }
  
 
@@ -459,7 +460,7 @@
       
    }
    .section-A img{
-       left: 4.375rem;
+       left: 70px;
        
    }
    
