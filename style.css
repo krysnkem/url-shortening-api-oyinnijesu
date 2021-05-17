@@ -142,6 +142,9 @@
  .sub_section-A{
      padding-bottom: 150px;
  }
+.section-A{
+    padding-bottom: 50px
+}
  
 
  /* particular styles */
@@ -356,7 +359,12 @@
 /* media query at 50rem screen */
 @media(min-width: 50rem){
     
-
+ .sub_section-A{
+     padding-bottom: 150px;
+ }
+.section-A{
+    padding-bottom: 150px
+}
     body{
         overflow-x: hidden;
         /* display: grid;
